@@ -1,0 +1,17 @@
+@charset "UTF-8";
+
+.h2 {
+	list-style-type: none;
+}
+
+.comida{
+	list-style-type:circle;
+}
+
+.tipo{
+	list-style-type: upper-roman;
+}
+
+.letra{
+	list-style-type:lower-latin;
+}
